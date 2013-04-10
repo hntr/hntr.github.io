@@ -1,3 +1,5 @@
-## what is hntr?
+# hntr
 
-group of like-minded hackers, designers and entrepreneurs from turkey. 
+## what the heck?
+
+hntr is a group of like-minded hackers, designers and entrepreneurs from turkey. 
