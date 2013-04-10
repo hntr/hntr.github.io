@@ -6,7 +6,7 @@ hntr is a group of like-minded hackers, designers and entrepreneurs from turkey.
 
 ## where?
 
-we are actually located all around the world.
+we are actually located all around the world, and we meet online.
 
 ## who?
 
