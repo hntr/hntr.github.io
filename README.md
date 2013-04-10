@@ -1,4 +1,4 @@
-# hntr
+# HNtr
 
 a group of like-minded hackers, designers and entrepreneurs from turkey.
 
