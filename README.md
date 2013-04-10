@@ -10,8 +10,8 @@ we are actually located all around the world.
 
 ## who?
 
-* if you are invited add your handle here
-* if you are not invited you can fork and send a pull request
+* if you are added, please write your name below
+* if you are not added you can fork and send a pull request
 * you should also invite your friends too
 * [@oguzbilgic](http://twitter.com/oguzbilgic)
 
