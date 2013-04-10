@@ -4,7 +4,7 @@ a group of like-minded hackers, designers and entrepreneurs from turkey.
 
 ## we the people
 
-[People](http://) file has all the details about the people involved in this.
+[People](https://github.com/hntr/hntr.github.io/blob/master/PEOPLE.md) file has all the details about the people involved in this.
 
 ## community
 
